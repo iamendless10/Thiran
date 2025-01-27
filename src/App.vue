@@ -47,7 +47,7 @@
       <GalleryOfAccomplishments />
     </transition> -->
     <transition name="fade">
-      <ContactUs />
+      <ContactUs />   
     </transition>
     <transition name="fade">
       <FooterComponent />
