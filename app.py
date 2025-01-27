@@ -1,9 +1,10 @@
 import streamlit as st
 import requests
+import os
 
 # Azure OpenAI Configuration
 azure_endpoint = "https://opeanai-eastus.openai.azure.com/"
-api_key = "a00d081fe4b849beb5b5c0c4ed8d837f"
+api_key = os.environ['API_KEY']
 model = "gpt4o"
 
 # Thiran 2025 Data
