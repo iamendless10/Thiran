@@ -241,7 +241,7 @@
   
   .landing-page {
     text-align: center;
-    background-image: url("E:\THIRAN\THIRAN\src\assets\group-people-working-laptops-room-hackathon-event_706399-17237.jpg");
+    background-image: url("@/assets/group-people-working-laptops-room-hackathon-event_706399-17237.jpg");
     background-size: cover;
     background-position: center;
     height: 100vh; /* Full viewport height */
